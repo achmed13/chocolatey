@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>regscanner-spl</id>
+    <version>2.45</version>
+    <title>RegScanner (SPL)</title>
+    <authors>Nir Sofer</authors>
+    <owners>achmed13</owners>
+    <licenseUrl>http://www.nirsoft.net/utils/regscanner.html</licenseUrl>
+    <projectUrl>http://www.nirsoft.net/utils/regscanner.html</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/dtgm/chocolatey-packages/2697586f564894b3346352497da46f320a02e725/icons/regscanner.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RegScanner is a small utility that allows you to scan the Registry, find the desired Registry values
+that match to the specified search criteria, and display them in one list.
+
+After finding the Registry values, you can easily jump to the right value in RegEdit, simply by
+double-clicking the desired Registry item.
+
+You can also export the found Registry values into a .reg file that can be used in RegEdit.</description>
+    <summary>Alternative to RegEdit find/search/scan of Windows</summary>
+    <releaseNotes>#### Package
+* Automatically built and uploaded by [dtgm](https://chocolatey.org/profiles/dtgm)</releaseNotes>
+    <copyright>© 2004 NirSoft</copyright>
+    <tags>scanner regedit scan search find windows admin</tags>
+    <packageSourceUrl>https://github.com/achmed13/chocolatey/tree/master/regscanner-spl/</packageSourceUrl>
+  </metadata>
+</package>
